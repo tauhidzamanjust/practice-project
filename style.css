@@ -3,6 +3,14 @@
     font-size: 40px;
     font-weight: 500;
     border: 2px solid tomato;
-    border-radius: 10%;
+    border-radius: 10px;
     color: blueviolet;
+}
+
+p {
+    color: blue;
+    background-color: burlywood;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 20px;
 }
