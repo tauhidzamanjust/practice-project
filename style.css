@@ -1,0 +1,8 @@
+.heading {
+    background-color:aqua ;
+    font-size: 40px;
+    font-weight: 500;
+    border: 2px solid tomato;
+    border-radius: 10%;
+    color: blueviolet;
+}
