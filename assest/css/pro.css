@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: aqua;
+    color: blue;
+    text-align: center; 
+    border-top: 4px solid red;
+    border-right: 4px solid blue;
+    border-bottom: 4px solid green;
+    border-left: 4px solid orange;
+}
+
+h3, h2, p {
+    text-shadow: 0cqmin;
+    text-align:center;
+    color: blue;
+    border: 5px outset pink;
+}
+
+
+.p1 {
+    font-size: 48px;
+    color: rgb(44, 247, 44);
+    border: 3px solid black;
+}
+
+.p2 {
+    font-size: 58px;
+    color: darkmagenta;
+    border: 3px dashed red;
+}
+
+
+.p3 {
+    font-size: 58px;
+    color: darkmagenta;
+    border: 3px dotted blue;
+}
+
+
+.p4 {
+    font-size: 58px;
+    color: darkmagenta;
+    border: 5px double green;
+}
+
+
+.title {
+    color: rgb(255, 136, 0);
+    text-align: center;
+    border: 5px groove purple;
+}
+
+.text {
+    font-size: 48px;
+    color: rgb(44, 247, 44);
+    border: 5px inset orange;
+}
+
+
+.text2{
+    font-size: 58px;
+    color: darkmagenta;
+    border: 5px inset orange;
+}
+
+.btn {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+/* Styling a unique header section */
+#header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+#header1 {
+        background-color: navy;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        font-size: 24px;
+
+}
+
+#header2 {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+/* Styling the about me section */
+#about-me {
+    font-size: 18px;
+    color: darkslategray;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Styling a unique button */
+#subscribe-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/* Hover effect for the button */
+#subscribe-btn:hover {
+    background-color: darkgreen;
+}
+
+
+
+#main-title {
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+}
+
+#intro-text {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
+
+#special-button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Hover effect for the button */
+#special-button:hover {
+    background-color: red;
+}
+
+
+/* Hover effect */
+.btn:hover {
+    background-color: red;
+}
+
+.box {
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Different Border Styles */
+.solid {
+    border: 3px solid black;
+}
+
+.dashed {
+    border: 3px dashed red;
+}
+
+.dotted {
+    border: 3px dotted blue;
+}
+
+.double {
+    border: 5px double green;
+}
+
+.groove {
+    border: 5px groove purple;
+}
+
+.inset {
+    border: 5px inset orange;
+}
+
+.outset {
+    border: 5px outset pink;
+}
+
+/* Rounded Borders */
+.rounded {
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+/* Multi-Colored Border */
+.multi {
+    border-top: 4px solid red;
+    border-right: 4px solid blue;
+    border-bottom: 4px solid green;
+    border-left: 4px solid orange;
+}
+
+.Boxes{
+    color: black;
+    border: none;
+    background-color: transparent;
+}
+
+.pera{
+    border:none;
+    opacity: 100%;
+}
+
+div {
+    background-color: green;
+  }
+  
+  .first {
+     opacity: 1;
+  }
+  
+  .second {
+    opacity: 0.3;
+  }
+  
+  .third {
+    opacity: 0.6;
+}
+
+
+body{
+  
+    background-image:url(../img/desktop-1.jpg);
+    background-repeat:repeat;
+    background-position:center ;
+    background-attachment: fixed;
+}
+
